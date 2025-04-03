@@ -21,15 +21,10 @@ The experiments were implemented in a Colab notebook, and this README provides d
 ---
 
 ## Results  
-### Performance Metrics  
-| Model | Loss | Accuracy (if applicable) | Other Metrics |  
-|--------|------|----------------|--------------|  
-| **With Data (Res Connections)** | [Value] | [Value] | [Optional] |  
-| **Without Data (IDPINN)** | [Value] | [Value] | [Optional] |  
-
 ### Visualizations  
 #### With Data (Residual Connections)  
-![Insert Image Here](path/to/your/image)  
+![Insert Image Here](WithData/e=0.1)
+![Insert Image Here](WithData/e=0.2)
 
 #### Without Data (IDPINN)  
 ![Insert Image Here](path/to/your/image)  
