@@ -27,7 +27,7 @@ The experiments were implemented in a Colab notebook, and this README provides d
 ![Insert Image Here](WithData/e=0.2)
 
 #### Without Data (IDPINN)  
-![Insert Image Here](path/to/your/image)  
+![Insert Image Here](WithoutData/e=0.2)  
 
 ---
 
