@@ -11,7 +11,7 @@ The experiments were implemented in a Colab notebook, and this README provides d
 
 ## Methodology  
 ### 1. With Data (Residual Connections)  
-- The model used is a simple neural network with 4 hidden layers of size 64 each
+- The model used is a simple neural network with 4 hidden layers of constant size
 - A skip connection was used in the last layer to help reduce vanishing gradients
 - The loss function is a weighted sum of the physics loss, data loss and the initial condition loss (initial position and velocity)
 
