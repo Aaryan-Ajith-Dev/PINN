@@ -31,13 +31,6 @@ The experiments were implemented in a Colab notebook, and this README provides d
 
 ---
 
-## Observations  
-- [Discuss key takeaways from the results.]  
-- [Mention which method performed better and why.]  
-- [Highlight any challenges faced during training.]  
-
----
-
 ## Reproducibility  
 - The full implementation is available in [Colab Notebook](https://colab.research.google.com/drive/1XXCkKBiteo_5oYnH2E0-zTPanlBAvOTn?usp=sharing).  
 - To reproduce the results, follow these steps:  
