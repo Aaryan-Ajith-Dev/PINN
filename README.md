@@ -31,9 +31,5 @@ The experiments were implemented in a Colab notebook, and this README provides d
 
 ---
 
-## Reproducibility  
+## Implementation  
 - The full implementation is available in [Colab Notebook](https://colab.research.google.com/drive/1XXCkKBiteo_5oYnH2E0-zTPanlBAvOTn?usp=sharing).  
-- To reproduce the results, follow these steps:  
-  1. Open the Colab notebook.  
-  2. Run all cells sequentially.  
-  3. Modify hyperparameters as needed for experimentation.  
